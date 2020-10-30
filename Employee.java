@@ -1,4 +1,4 @@
-package GFT1;
+//package GFT1;
 
 public class Employee {
 	private int empid;
